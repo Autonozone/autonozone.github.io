@@ -7,11 +7,11 @@
 
 ## Connect
 
-- telegram (todo)
-- [https://www.instagram.com/autonozone/](https://www.instagram.com/autonozone/)
-- [https://twitter.com/autonozone](https://twitter.com/autonozone)
-- [https://reddit.com/r/autonozone](https://reddit.com/r/autonozone)
-- [https://github.com/autonozone](https://github.com/autonozone)
+- Telegram (todo)
+- [Instagram](https://www.instagram.com/autonozone/)
+- [Twitter](https://twitter.com/autonozone)
+- [Reddit](https://reddit.com/r/autonozone)
+- [Github](https://github.com/autonozone)
 
 ## Study
 
