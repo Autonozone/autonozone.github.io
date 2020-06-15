@@ -41,4 +41,5 @@ Autonomous zones need effective ways to collect and allocate financial resources
 - [Permanent Autonomous Zone](https://en.wikipedia.org/wiki/Permanent_autonomous_zone)
 - [Mutualism](https://en.wikipedia.org/wiki/Mutualism_(economic_theory))
 - [What is Anarchism](https://www.youtube.com/watch?v=ZzEl5RIMp7M&list=PLCcemL_x8RtdtFuib1Wl6VwyuYOEDb5Wv&index=1)
+- [Decentralized Autonomous Organizations](https://youtu.be/zT-I42V0oik)
 - [What is a DAO](https://hackernoon.com/what-is-a-dao-c7e84aa1bd69)
