@@ -8,20 +8,21 @@ Autonomous zones need effective ways to collect and allocate financial resources
 4. Locals govern funds (supplies, professional services, bail funds)
 
 ### Components
-- Governance Feed
-  - daostack + arc.react?
-  - aragon + helpdao?
-  - moloch + pocketmoloch?
-  - custom?
-- Donation Portal
-  - credit/debit ([sendwyre](https://www.sendwyre.com/)), bank ([ramp](https://instant.ramp.network/)), crypto
-  - example: [help dao](https://app.helpdao.org/squad/5ebaea25da66150012012ec2), [repo](https://github.com/helpdao/donation-portal)
-- Onboarding Kit
-  - [dripdrop](https://github.com/lexDAO/dripDrop)?
-  - [linkdrop](https://linkdrop.io/)?
-- Landing Page
-  - explainer
+
+- **Governance Feed**: Simple propose and vote
+  - [arc.react](https://github.com/daostack/arc.react)? [pokemol](https://github.com/odyssy-automaton/moloch-pokemol)? [plumbery](https://github.com/aragon/plumbery)?
+
+- **Donation Portal**: Accept credit/debit, bank wire, and crypto donations
+  - fork help dao: [app](https://app.helpdao.org/squad/5ebaea25da66150012012ec2), [repo](https://github.com/helpdao/donation-portal)
+
+- **Onboarding Kit**: Easy in-person onboarding experience
+  - scan QR code -> make onboarding proposal
+  - abstract away or minimize complexity of wallet creation
+  - preload wallet with gas: [dripdrop](https://github.com/lexDAO/dripDrop)? [linkdrop](https://linkdrop.io/)?
+
+- **Landing Page**: Basic explainer
   - logo, branding
+  - FAQ
   - memes
 
 ## Connect
