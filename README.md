@@ -17,7 +17,6 @@
 
 - [Permanent Autonomous Zone](https://en.wikipedia.org/wiki/Permanent_autonomous_zone)
 - [Mutualism](https://en.wikipedia.org/wiki/Mutualism_(economic_theory))
-- [TAZ](https://www.youtube.com/watch?v=dK83oKv81SQ)
 - [What is Anarchism](https://www.youtube.com/watch?v=ZzEl5RIMp7M&list=PLCcemL_x8RtdtFuib1Wl6VwyuYOEDb5Wv&index=1)
 
 ## TODO
