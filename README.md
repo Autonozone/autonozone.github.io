@@ -1,4 +1,4 @@
-## Basic flow
+*Basic flow*
 
 1. Summon dao
 2. Volunteers onboard locals on-the-ground
@@ -8,10 +8,10 @@
 ## Connect
 
 - telegram (todo)
-- (https://www.instagram.com/autonozone/)
-- (https://twitter.com/autonozone)
-- (https://reddit.com/r/autonozone)
-- (https://github.com/autonozone)
+- [https://www.instagram.com/autonozone/](https://www.instagram.com/autonozone/)
+- [https://twitter.com/autonozone](https://twitter.com/autonozone)
+- [https://reddit.com/r/autonozone](https://reddit.com/r/autonozone)
+- [https://github.com/autonozone](https://github.com/autonozone)
 
 ## Study
 
