@@ -1,13 +1,11 @@
 Autonomous zones need effective ways to collect and allocate financial resources. DAOs can help. 
 
-## Spec
-
 ### Basic flow
 
 1. Summon DAO
 2. Volunteers onboard locals on-the-ground
 3. Collect donations online
-4. Locals govern funds (to pay for supplies, professional services, bail funds, etc.)
+4. Locals govern funds (supplies, professional services, bail funds)
 
 ### Components
 - Governance Feed
