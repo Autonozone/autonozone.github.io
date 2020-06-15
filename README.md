@@ -1,16 +1,26 @@
-# autonozone
-> get in, rise up, help out
+## Basic flow
 
-*basic premise*: autonomous zones need autonomous governance
+1. Summon dao
+2. Volunteers onboard locals on-the-ground
+3. Publicize for online donations
+4. Locals govern funds (to pay for supplies, professional services, bail funds, etc.)
 
-*basic flow*:
+## Connect
 
-1. summon dao
-2. volunteers onboard locals on-the-ground
-3. publicize for online donations
-4. locals govern funds (to pay for supplies, professional services, bail funds, etc.)
+- telegram (todo)
+- (https://www.instagram.com/autonozone/)
+- (https://twitter.com/autonozone)
+- (https://reddit.com/r/autonozone)
+- (https://github.com/autonozone)
 
-TODO
+## Study
+
+- [Permanent Autonomous Zone](https://en.wikipedia.org/wiki/Permanent_autonomous_zone)
+- [Mutualism](https://en.wikipedia.org/wiki/Mutualism_(economic_theory))
+- [TAZ](https://www.youtube.com/watch?v=dK83oKv81SQ)
+- [What is Anarchism](https://www.youtube.com/watch?v=ZzEl5RIMp7M&list=PLCcemL_x8RtdtFuib1Wl6VwyuYOEDb5Wv&index=1)
+
+## TODO
 - governance app
   - daostack + arc.react?
   - aragon + helpdao?
@@ -26,18 +36,3 @@ TODO
   - explainer
   - logo, branding
   - memes
-
-## Connect
-
-- telegram (todo)
-- https://www.instagram.com/autonozone/
-- https://twitter.com/autonozone
-- https://www.reddit.com/r/autonozone
-- https://github.com/autonozone
-
-## Study
-
-- [Permanent Autonomous Zone](https://en.wikipedia.org/wiki/Permanent_autonomous_zone)
-- [Mutualism](https://en.wikipedia.org/wiki/Mutualism_(economic_theory))
-- [TAZ](https://www.youtube.com/watch?v=dK83oKv81SQ)
-- [What is Anarchism](https://www.youtube.com/watch?v=ZzEl5RIMp7M&list=PLCcemL_x8RtdtFuib1Wl6VwyuYOEDb5Wv&index=1)
