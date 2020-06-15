@@ -14,7 +14,7 @@ Autonomous zones need effective ways to collect and allocate financial resources
   - moloch + pocketmoloch?
   - custom?
 - donation portal
-  - credit ([sendwyre](https://www.sendwyre.com/)), bank ([ramp](https://instant.ramp.network/)), crypto
+  - credit/debit ([sendwyre](https://www.sendwyre.com/)), bank ([ramp](https://instant.ramp.network/)), crypto
   - example: [help dao](https://app.helpdao.org/squad/5ebaea25da66150012012ec2), [repo](https://github.com/helpdao/donation-portal)
 - onboarding kit: 
   - [dripdrop](https://github.com/lexDAO/dripDrop)?
