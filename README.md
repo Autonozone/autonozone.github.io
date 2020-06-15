@@ -9,18 +9,21 @@ Autonomous zones need effective ways to collect and allocate financial resources
 
 ### Components
 
-- **Governance Feed**: Simple propose and vote
+- *Governance Feed*: Simple propose and vote
   - [arc.react](https://github.com/daostack/arc.react)? [pokemol](https://github.com/odyssy-automaton/moloch-pokemol)? [plumbery](https://github.com/aragon/plumbery)?
 
-- **Donation Portal**: Accept credit/debit, bank wire, and crypto donations
+- *Donation Portal*: Accept credit/debit, bank wire, and crypto donations
   - fork help dao: [app](https://app.helpdao.org/squad/5ebaea25da66150012012ec2), [repo](https://github.com/helpdao/donation-portal)
 
-- **Onboarding Kit**: Easy in-person onboarding experience
-  - scan QR code -> make onboarding proposal
-  - abstract away or minimize complexity of wallet creation
-  - preload wallet with gas: [dripdrop](https://github.com/lexDAO/dripDrop)? [linkdrop](https://linkdrop.io/)?
+- *Onboarding Kit*: Easy in-person onboarding experience
+  - scan QR code -> submit onboarding proposal
+  - a) abstract away wallet creation ([fortmatic](https://fortmatic.com/), [torus](https://tor.us/index.html)
+  - b) remove gas costs 
+    - preload wallet with some ETH? [dripdrop](https://github.com/lexDAO/dripDrop), [linkdrop](https://linkdrop.io/)
+    - transaction relayer? server wallet, DAO
+  - solve (a) and (b) with Telegram chat bot -> Abridged?
 
-- **Landing Page**: Basic explainer
+- *Landing Page*: Basic explainer
   - logo, branding
   - FAQ
   - memes
