@@ -2,24 +2,24 @@ Autonomous zones need effective ways to collect and allocate financial resources
 
 *Basic flow*
 
-1. Summon a DAO
+1. Summon DAO
 2. Volunteers onboard locals on-the-ground
-3. Publicize and collect donations online
+3. Collect donations online
 4. Locals govern funds (to pay for supplies, professional services, bail funds, etc.)
 
-## TODO
-- governance app
+## Build
+- Governance Feed
   - daostack + arc.react?
   - aragon + helpdao?
   - moloch + pocketmoloch?
   - custom?
-- donation portal
+- Donation Portal
   - credit/debit ([sendwyre](https://www.sendwyre.com/)), bank ([ramp](https://instant.ramp.network/)), crypto
   - example: [help dao](https://app.helpdao.org/squad/5ebaea25da66150012012ec2), [repo](https://github.com/helpdao/donation-portal)
-- onboarding kit: 
+- Onboarding Kit
   - [dripdrop](https://github.com/lexDAO/dripDrop)?
   - [linkdrop](https://linkdrop.io/)?
-- landing page:
+- Landing Page
   - explainer
   - logo, branding
   - memes
