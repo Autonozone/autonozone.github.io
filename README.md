@@ -1,5 +1,5 @@
 # autonozone
-> rise up, get in, help out
+> get in, rise up, help out
 
 TODO
 
