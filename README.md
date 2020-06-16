@@ -28,14 +28,6 @@ Autonomous zones need effective ways to collect and allocate financial resources
   - FAQ
   - memes
 
-## Connect
-
-- Telegram (todo)
-- [Instagram](https://www.instagram.com/autonozone/)
-- [Twitter](https://twitter.com/autonozone)
-- [Reddit](https://reddit.com/r/autonozone)
-- [Github](https://github.com/autonozone)
-
 ## Study
 
 - [Permanent Autonomous Zone](https://en.wikipedia.org/wiki/Permanent_autonomous_zone)
